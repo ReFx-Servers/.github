@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://refx.gg/refx_social.png" height='300' > </a>
+  <img src="https://cdn.refx.gg/static/social/logo.png" height='300' > </a>
 </h1>
 <h1 align="center">Welcome to <a href="https://refx.gg">ReFx</a>'s Github</p></h1>
 <p align="center">
